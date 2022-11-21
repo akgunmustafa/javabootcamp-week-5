@@ -12,6 +12,10 @@
 - Inmemory was used as the database in this project.
 - Write codes that can "add, delete, update and list-all" with SpringBoot.
   
+## 4- KodlamaIoDevs2 
+- This project is a homework for Kodlama.io
+- PostgreSql was used as the database in this project.
+- Write codes that can "add, delete, update and list-all" using with SpringBoot and ModelMapper.
 
 
 
